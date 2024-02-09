@@ -1,7 +1,7 @@
 # How it's going! My name is:
 
 <p align="left">
- <img width="400" src="assets/banner.png" alt="banner"/>
+ <img width="500" src="assets/banner.png" alt="banner"/>
 </p>
 
 ### :man_technologist: About me:
