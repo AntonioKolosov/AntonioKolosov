@@ -1,7 +1,7 @@
 # How it's going! My name is:
 
 <p align="left">
- <img width="600" src="assets/banner.png" alt="banner"/>
+ <img width="400" src="assets/banner.png" alt="banner"/>
 </p>
 
 ### :man_technologist: About me:
@@ -10,3 +10,5 @@ I am a trainee-level software developer. My journey started in May 2023. The fir
 In addition, I started my studies at [St. Petersburg's Technical College](https://sptcol.ru/) for a bachelor's degree in "Information systems and programming" program.
 
 I am currently continuing my college course and also self-studying.
+
+
