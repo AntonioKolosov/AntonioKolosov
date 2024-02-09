@@ -1,7 +1,7 @@
 # How it's going! My name is Anton!
 
 <p align="center">
- <img width="100%" src="assets/banner.png" alt="banner"/>
+ <img width="600" src="assets/banner.png" alt="banner"/>
 </p>
 
 ### :man_technologist: About me:
