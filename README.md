@@ -1,6 +1,6 @@
 # How it's going! My name is Anton!
 
-<p align="center">
+<p align="left">
  <img width="600" src="assets/banner.png" alt="banner"/>
 </p>
 
