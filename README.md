@@ -24,6 +24,10 @@ On my Web Development road, I chose backend development and already learned some
   <img src="assets/mongo.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp
   <img src="assets/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="assets/solidity.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp
+  <img src="assets/html.svg" title="html" alt="html" width="40" height="40"/>&nbsp
+  <img src="assets/css.svg" title="css" alt="css" width="40" height="40"/>&nbsp 
+  <img src="assets/js.svg" title="js" alt="js" width="40" height="40"/>&nbsp
+  <img src="assets/ubuntu.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
 </div>
 
 
