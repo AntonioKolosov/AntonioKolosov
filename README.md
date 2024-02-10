@@ -15,9 +15,15 @@ In my self-studying, I prefer to **implement basic technologies from scratch**, 
 
 On my Web Development road, I chose backend development and already learned some technologies:
 
+
 <div>
   <img src="assets/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="assets/fastapi.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp
+  <img src="assets/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="assets/postgres.svg" title="postgres" alt="postgres" width="40" height="40"/>&nbsp
+  <img src="assets/mongo.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp
+  <img src="assets/docker.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
+  <img src="assets/solidity.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp
 </div>
 
 
