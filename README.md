@@ -15,6 +15,9 @@ In my self-studying, I prefer to **implement basic technologies from scratch**, 
 
 On my Web Development road, I chose backend development and already learned some technologies:
 
-
+<div>
+  <img src="assets/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="assets/fastapi.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp
+</div>
 
 
